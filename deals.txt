@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 deal1/
 deal2/
 deal3/
 deal4/
+>>>>>>> 476cd4712b4b371c463ad96be2e39483b0c5f55c
